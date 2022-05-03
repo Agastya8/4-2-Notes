@@ -6,7 +6,7 @@ description: Only LAQs, will be updating rest...
 
 ## LONG ANSWERS
 
-### <mark style="color:purple;">1.What are the three ego states according to transactional analysis theory? Describe them</mark>.
+### 1.What are the three ego states according to transactional analysis theory? Describe them.
 
 Transactional analysis (TA) is a theory developed by Dr. Eric Berne in the 1950’s that involves a set of practical conceptual tools designed to promote personal change and growth.
 
@@ -48,7 +48,7 @@ It is the Adult ego state which allows us to interact with others without playin
 
 
 
-### <mark style="color:purple;">2.Explain Johari Window .</mark>
+### 2.Explain Johari Window .
 
 **JOHARI WINDOW**
 
@@ -72,9 +72,9 @@ By working with others it is possible for you to discover aspects that neither o
 
 As I share more and gain more information about myself I begin to gain insights through introspection about aspects of myself that both I and others were unaware of, things like impulses that drive us, motives and instincts, those less tangible things that we just accept but haven’t given much thought to. These insights help move information from the unknown quadrant into the OPEN
 
-### <mark style="color:purple;">3. What are the major factors influencing job satisfaction?</mark>
+### 3. What are the major factors influencing job satisfaction?
 
-### <mark style="color:purple;">4.Explain the difference between self-efficiacy and self-esteem</mark>
+### 4.Explain the difference between self-efficiacy and self-esteem
 
 **Self esteem**
 
@@ -90,7 +90,7 @@ Self efficacy is a concept related to self esteem. It was introduced by Albert B
 
 A person may not know ball dancing and may have a low self efficacy for ball dance, but that doesn’t result in a low self esteem if he does not think of ball dance being important in his life. Thus you can see that self esteem is different from self efficacy. Self esteem is a permanent internal feeling while self efficacy is a feeling that depends upon the performance at hand. Had they been the same, you would have been on a high one day and felt terribly the very next day when confronted with a task that you did not have the ability to perform. Similarly, you know that success or failure at one task does not affect your self esteem. You know that you are worth more than a performance or more.
 
-### <mark style="color:purple;">5.Write briefly about Big 5 Personality theory.</mark>
+### 5.Write briefly about Big 5 Personality theory.
 
 THE BIG FIVE PERSONALITY MODEL
 
@@ -132,7 +132,7 @@ The “Big Five” framework is considered valuable for managers as study of the
 
 However, there are many demographic, cultural, and environmental factors that influence the Big Five traits. These factors should be taken into consideration while taking decisions based on The Big Five Personality dimensions.
 
-### <mark style="color:purple;">6.Discuss Herzberg theory of motivation</mark>
+### 6.Discuss Herzberg theory of motivation
 
 Herzberg’s two-factor theory
 
