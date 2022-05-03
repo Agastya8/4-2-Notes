@@ -1,5 +1,5 @@
 ---
-description: Only LAQs, will be updating rest...
+description: Only  few LAQs, will be updating rest...
 ---
 
 # CH 1
