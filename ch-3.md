@@ -6,7 +6,7 @@ description: Only LAQs
 
 ### **Long Questions**
 
-### 1.  Explain barriers of communication
+### <mark style="color:purple;">1.  Explain barriers of communication</mark>
 
 BARRIERS TO COMMUNICATION
 
@@ -24,6 +24,6 @@ Types of Barriers: We face many barriers while communicating. These barriers can
 
 4.Socio-Cultural Barriers: Due to differences in social status or cultural barriers many time we face differences in communication. These are socio-cultural barriers.
 
-### 2. Write the importance of non verbal communication
+### <mark style="color:purple;">2. Write the importance of non verbal communication</mark>
 
-### 3. Discuss the effective ways to improve communication
+### <mark style="color:purple;">3. Discuss the effective ways to improve communication</mark>
