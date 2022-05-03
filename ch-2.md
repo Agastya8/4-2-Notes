@@ -90,7 +90,7 @@ Self efficacy is a concept related to self esteem. It was introduced by Albert B
 
 A person may not know ball dancing and may have a low self efficacy for ball dance, but that doesn’t result in a low self esteem if he does not think of ball dance being important in his life. Thus you can see that self esteem is different from self efficacy. Self esteem is a permanent internal feeling while self efficacy is a feeling that depends upon the performance at hand. Had they been the same, you would have been on a high one day and felt terribly the very next day when confronted with a task that you did not have the ability to perform. Similarly, you know that success or failure at one task does not affect your self esteem. You know that you are worth more than a performance or more.
 
-### 5.Write briefly about Big 5 Personality theory.
+### <mark style="color:purple;">5.Write briefly about Big 5 Personality theory.</mark>
 
 THE BIG FIVE PERSONALITY MODEL
 

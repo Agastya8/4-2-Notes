@@ -1,10 +1,10 @@
 ---
-description: Only LAQs, will be updating rest...
+description: Only  few LAQs. will be updating rest...
 ---
 
 # CH 1
 
-**Long Questions**
+**Long Questions**&#x20;
 
 ### 1. What are the major characteristics of diversity?
 
