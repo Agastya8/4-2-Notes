@@ -6,7 +6,7 @@
 
 **Long Questions**&#x20;
 
-### 1. What are the major characteristics of diversity?
+### <mark style="background-color:green;">1. What are the major characteristics of diversity?</mark>
 
 #### Characteristics of Diversity
 
@@ -54,7 +54,7 @@ The number of factors that define diversity is truly unlimited. Throughout an in
 
 
 
-### 2. Explain briefly the process of impression management.
+### <mark style="background-color:green;">2. Explain briefly the process of impression management.</mark>
 
 Impression management is a conscious or unconscious effort towards influencing the perceptions, decisions and opinions of other people. In simpler words, it is a process of controlling or managing impressions of others in social interactions. Let’s look at some of the types and examples of impression management to understand the concept.
 
@@ -104,7 +104,7 @@ Sometimes we associate with certain people to protect or promote our self-image.
 \
 
 
-### 3. What are attribution errors?
+### <mark style="background-color:green;">3. What are attribution errors?</mark>
 
 **Attribution theory**&#x20;
 
@@ -131,7 +131,7 @@ The tendency to make more favourable and flattering attribution about members of
 
 
 
-### 4. Discuss briefly Hawthorne studies
+### <mark style="background-color:green;">4. Discuss briefly Hawthorne studies</mark>
 
 The Hawthorne studies: A study undertaken at Western Electric Company’s
 
@@ -145,7 +145,7 @@ They helped each other to ensure that their reports were nearby the level. The n
 
 The Hawthorne studies made an important contribution to understanding of group behaviour — particularly to the significant place that norms have a place in determining individual work behaviour.
 
-### 5. What are the factors affecting perception of individuals?
+### <mark style="background-color:green;">5. What are the factors affecting perception of individuals?</mark>
 
 A number of factors operate to shape and sometimes distort perception. These factors can reside in the perceiver, in the object or target being perceived, situation in the context of which the perception is made.
 
@@ -171,7 +171,7 @@ The context in which we see objects or events is important. Elements in the surr
 
 
 
-### 6. Explain the characteristics of perceiver and perceived in social perception
+### <mark style="background-color:green;">6. Explain the characteristics of perceiver and perceived in social perception</mark>
 
 #### &#x20;**Characteristics of the Perceiver**:
 
