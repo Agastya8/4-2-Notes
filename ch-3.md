@@ -1,7 +1,3 @@
----
-description: Only LAQs
----
-
 # Ch 3
 
 ## **Short Questions**
