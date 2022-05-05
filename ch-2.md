@@ -56,7 +56,7 @@ It is the Adult ego state which allows us to interact with others without playin
 
 The Johari Window was invented by Joseph Luft and Harrington Ingham in the 1950s as a model to understand ourselves better and how others understand us.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (2).png>)
 
 ![](file:///tmp/wps-agastya/ksohtml/wpsj1AF5o.png) **Open Area**
 

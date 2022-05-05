@@ -1,10 +1,48 @@
 # CH 1
 
+
+
 proper material nahi tha toh, ive searched net/ baaki OB study materials and this is what i managed to collect. thik se koi material nahi hai toh meko pata nhi if the answers are 100% correct but im sure ki 95% sahi h.Gamble on the rest 5%.
 
 ****
 
 ## **Short Questions**
+
+****
+
+### 1. Define Organization Behvaior
+
+Organizational behavior is basically a study of human behaviour in both, group as well as an individual in an organization. As we know that certain types of behaviour of a person is linked to certain types of roles and responsibilities. So, generalizations were made based on their behaviours that help us predict what people do and should do
+
+### 2. Explain the following
+
+a. Halo effect
+
+The Halo effect refers to the tendency of perceiving people in terms of good and bad and ascribing all good qualities to one who is liked and all bad qualities to another who is disliked.
+
+b. Stereo effect
+
+It is the tendency to assign attributes to someone solely on the basis of a category of people to which that person belongs.
+
+### 3. What is Figure ground in perception?  Give an example
+
+Figure-ground perception refers to the tendency of the visual system to simplify a scene into the main object that we are looking at (the figure) and everything else that forms the background (or ground)
+
+**Examples**
+
+The "faces or vases" illustration is one of the most frequent demonstrations of figure-ground. What you see when you look at the faces or vases illusion depends on whether you see the white as the figure or the black as the figure.
+
+### 4. What is closure principle in perceptual grouping? Give an example.
+
+Gestalt psychologists claimed that when we receive sensations that form an incomplete or unfinished visual image or sound, we tend to overlook the incompleteness and perceive the image or sound as a complete or finished unit. This tendency to fill in the gaps is referred to as closure.
+
+![](<.gitbook/assets/image (1).png>)
+
+In the image at the top of the page, you probably see the shape of a diamond because your brain fills in the missing gaps in order to create a meaningful image.
+
+### 5. Define culture
+
+**organizational culture:**  it refers to a system of shared assumptions, values and beliefs that show employees what is appropriate and inappropriate behaviour. In short, it is an effective control mechanism for dictating “employee behaviour”.
 
 ## **Long Questions**&#x20;
 
