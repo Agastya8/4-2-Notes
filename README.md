@@ -1,8 +1,8 @@
----
-description: Only  few LAQs. will be updating rest...
----
-
 # CH 1
+
+`proper material nahi tha toh, ive searched net/ baaki OB study materials and this is what i managed to collect. thik se koi material nahi hai toh meko pata nhi if the answers are 100% correct but im sure ki 95% sahi h.Gamble on the rest 5%.`
+
+****
 
 **Long Questions**&#x20;
 
@@ -31,10 +31,26 @@ While diversity is the acceptance of all folks regardless of their ethnicity, se
 
 Religious diversity refers to the fact that there are different religions and the religious beliefs of people vary. If we look at the figures, there are roughly four thousand plus religions all over the world. Yet, people live peacefully with each other to an extent because of religious diversity. This comes in the list of characteristics of diversity that makes diversity a successful concept. As there is more and more awareness being spread all over, people are becoming religiously diverse. For example, India’s religious diversity is quite famous worldwide. The main religions of the country are Hinduism, Buddhism, Islam, Christianity, Sikhism and more. Thus, religious diversity helps people in making them aware of other people’s religious beliefs and practices. It makes people more tolerant and open-minded.
 
-In conclusion, we know by now that diversity comes in many forms. All of the characteristics of diversity contribute to each person’s unique experience. It brings together people from various walks of life together. This helps in generating ideas and perspectives which one may have not considered before. Moreover, it will help you develop socially as well. Most importantly, diversity helps in bridging the gaps of discrimination. In addition to tolerance, it also makes you accept people for their uniqueness and individuality. Therefore, it enriches a person’s life and makes them a global citizen.
+<mark style="background-color:orange;">// below is the diversity in relation with organisation/workplace above was more of general</mark>  🥲  jo sahi lage likho.
 
 \
+Diversity encompasses the qualities and characteristics that distinguish individuals from one another. A few areas are more commonly discussed in the HR and recruiting realm.&#x20;
 
+The number of factors that define diversity is truly unlimited. Throughout an individual’s life, the unique biological and genetic predispositions, experiences and education alter who they are as a person. These experiences are what diversify and evolve the community, allowing individuals to connect and learn from each other.
+
+### TYPES DIVERSITY IN THE WORKPLACE
+
+* Race
+* Ethnicity
+* Age
+* Citizenship status
+* Education
+* Income
+* Skills
+* Beliefs
+* Upbringing
+* National origin
+* Management status
 
 
 
