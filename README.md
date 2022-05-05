@@ -1,10 +1,12 @@
 # CH 1
 
-`proper material nahi tha toh, ive searched net/ baaki OB study materials and this is what i managed to collect. thik se koi material nahi hai toh meko pata nhi if the answers are 100% correct but im sure ki 95% sahi h.Gamble on the rest 5%.`
+proper material nahi tha toh, ive searched net/ baaki OB study materials and this is what i managed to collect. thik se koi material nahi hai toh meko pata nhi if the answers are 100% correct but im sure ki 95% sahi h.Gamble on the rest 5%.
 
 ****
 
-**Long Questions**&#x20;
+## **Short Questions**
+
+## **Long Questions**&#x20;
 
 ### <mark style="background-color:green;">1. What are the major characteristics of diversity?</mark>
 

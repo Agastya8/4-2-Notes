@@ -4,7 +4,9 @@ description: Only LAQs
 
 # Ch 3
 
-### **Long Questions**
+## **Short Questions**
+
+## **Long Questions**
 
 ### <mark style="background-color:green;">1.  Explain barriers of communication</mark>
 

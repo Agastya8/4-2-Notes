@@ -4,7 +4,9 @@ description: Only LAQs, will be updating rest...
 
 # CH 2
 
-## LONG ANSWERS
+## Short Questions
+
+## LONG Questions
 
 ### <mark style="background-color:green;">1.What are the three ego states according to transactional analysis theory? Describe them.</mark>
 
@@ -112,19 +114,19 @@ The five factors of this model or fives traits of the personality are:
 
 &#x20;
 
-1\. Agreeableness: It applies to one person's willingness to get along with others. The trait is characterized by confidence, collaboration, compassion and empathy. Those who are highly agreeable value harmony more than just having a say or a way. They're cooperative, and trust other people. People who concentrate more on their own needs than on acceptability needs of those who are weak.
+**1. Agreeableness**: It applies to one person's willingness to get along with others. The trait is characterized by confidence, collaboration, compassion and empathy. Those who are highly agreeable value harmony more than just having a say or a way. They're cooperative, and trust other people. People who concentrate more on their own needs than on acceptability needs of those who are weak.
 
 &#x20;
 
 Note: The acronym CANOE (for conscientiousness, agreeableness, neuroticism, openness, and extraversion) is helpful while remembering the big five personality traits.
 
-2\. Extroversion: It represents the degree of comfort a person has with relationships. Extroverts are sociable, talkative, assertive and open to new relations. Introverts are less sociable, less talkative, less assertive, and more reticent about beginning new relationships.
+**2. Extroversion:** It represents the degree of comfort a person has with relationships. Extroverts are sociable, talkative, assertive and open to new relations. Introverts are less sociable, less talkative, less assertive, and more reticent about beginning new relationships.
 
-3\. Conscientiousness: This trait refers to the number of targets a person is focusing on. At one point, a person of high conscience focuses on very few goals. Such individuals are believed to appear to be well organized, cautious, responsible, self-disciplined, and centered. A person with low conscientiousness tends to be less concentrated, and at one time may seek to accomplish several goals.
+**3. Conscientiousness:** This trait refers to the number of targets a person is focusing on. At one point, a person of high conscience focuses on very few goals. Such individuals are believed to appear to be well organized, cautious, responsible, self-disciplined, and centered. A person with low conscientiousness tends to be less concentrated, and at one time may seek to accomplish several goals.
 
-4\. Neuroticism or Emotional stability: This personality trait centers on the ability of an individual to cope with stress. Emotionally stable individuals tend to be calm, enthusiastic and secure. The emotionally unstable person, on the contrary, appears to be anxious and deprived with insecurities.
+**4. Neuroticism or Emotional stability:** This personality trait centers on the ability of an individual to cope with stress. Emotionally stable individuals tend to be calm, enthusiastic and secure. The emotionally unstable person, on the contrary, appears to be anxious and deprived with insecurities.
 
-5\. Openness to Experiences: Creativity and innovation intrigue especially transparent humans. They 're willing to listen to new ideas in reaction to new knowledge, and change their own ideas, beliefs and attitudes. At the other hand, those with low levels of transparency tend to be less inclined towards new
+**5. Openness to Experiences:** Creativity and innovation intrigue especially transparent humans. They 're willing to listen to new ideas in reaction to new knowledge, and change their own ideas, beliefs and attitudes. At the other hand, those with low levels of transparency tend to be less inclined towards new
 
 ideas and less likely to change their minds, respectively. These do seem to be less adventurous and have less and fewer focused interests.
 
