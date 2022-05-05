@@ -6,6 +6,34 @@ description: Only LAQs, will be updating rest...
 
 ## Short Questions
 
+
+
+### 1. Define attitude
+
+An attitude defined as the way a person feels about something- a person, a place, a commodity, a situation or an idea. In other words, attitudes are the set or cluster of beliefs towards objects, events and situation.
+
+### 2. Explain personality on a continuum
+
+### 3. Write the five components of emotional intelligence
+
+* Self-awareness.
+* Self-regulation.
+* Motivation.
+* Empathy.
+* Social skills.
+
+### 4. Draw Maslow’s Hierarchy of Needs
+
+### &#x20;![](<.gitbook/assets/image (1).png>)
+
+### 5. Define Optimism
+
+Optimism is the belief or hope that outcomes will generally be favourable and that a person is responsible for their happiness.
+
+### 6. Mccelland’s theory of motivation
+
+McClelland's Human Motivation Theory states that **every person has one of three main driving motivators: the needs for achievement, affiliation, or power**. These motivators are not inherent; we develop them through our culture and life experiences. Achievers like to solve problems and achieve goals.
+
 ## LONG Questions
 
 ### <mark style="background-color:green;">1.What are the three ego states according to transactional analysis theory? Describe them.</mark>
@@ -56,7 +84,7 @@ It is the Adult ego state which allows us to interact with others without playin
 
 The Johari Window was invented by Joseph Luft and Harrington Ingham in the 1950s as a model to understand ourselves better and how others understand us.
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (4).png>)
 
 ![](file:///tmp/wps-agastya/ksohtml/wpsj1AF5o.png) **Open Area**
 

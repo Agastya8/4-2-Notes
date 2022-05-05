@@ -6,6 +6,30 @@ description: Only LAQs
 
 ## **Short Questions**
 
+### 1. Draw the communication process
+
+
+
+### &#x20;![](<.gitbook/assets/image (5).png>)
+
+
+
+### 2.Types of communication in organization
+
+formal communication and informal&#x20;
+
+lateral and horizontal communication
+
+downward and upward communication&#x20;
+
+internal and  external communication&#x20;
+
+oral and **** written communication
+
+### 3. Define decision making
+
+Decision making is the process of making choices by identifying a decision, gathering information, and assessing alternative resolutions.
+
 ## **Long Questions**
 
 ### <mark style="background-color:green;">1.  Explain barriers of communication</mark>

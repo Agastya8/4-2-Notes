@@ -36,7 +36,7 @@ The "faces or vases" illustration is one of the most frequent demonstrations of 
 
 Gestalt psychologists claimed that when we receive sensations that form an incomplete or unfinished visual image or sound, we tend to overlook the incompleteness and perceive the image or sound as a complete or finished unit. This tendency to fill in the gaps is referred to as closure.
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (3).png>)
 
 In the image at the top of the page, you probably see the shape of a diamond because your brain fills in the missing gaps in order to create a meaningful image.
 
