@@ -14,7 +14,19 @@ An attitude defined as the way a person feels about something- a person, a place
 
 ### 2. Explain personality on a continuum
 
-The Personality Continuum is an integrative framework for the interdisciplinary study of consumer behavior. It is divided into four qualitatively different levels of personality development that are hierarchically arranged in descending order from highest to lowest level: **Normal, Neurotic, Primitive and Psychotic**.
+5 personality traits exist on a continuum rather than as attributes that a person does or does not have. Each of these 5 traits is made up individual aspects, which can be measured independently.
+
+fives traits of the personality are:
+
+1\. Agreeableness
+
+2\. Extroversion
+
+3\. Conscientiousness
+
+4\. Neuroticism
+
+5\. Openness to experiences
 
 ### 3. Write the five components of emotional intelligence
 
